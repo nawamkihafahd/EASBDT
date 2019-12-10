@@ -1,0 +1,30 @@
+.thumbnail {
+    height: 100px;
+    width: 100px;
+    overflow: hidden;
+}
+
+.video-preview {
+    width: 100px;
+    overflow: hidden;
+}
+
+.table-vertical-align td {
+    vertical-align: middle;
+}
+
+table tr.un-viewed {
+    background-color: #fa503a !important;
+}
+
+table tr.un-checked {
+    background-color: yellow !important;
+}
+
+table tr.refused {
+    background-color: #fa503a !important;
+}
+
+.gmap iframe {
+    width: 100%;
+}

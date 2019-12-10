@@ -1,0 +1,113 @@
+.page-title .container {
+    height: auto;
+}
+
+.portfolio-item a.popup i {
+    line-height: 40px;
+}
+
+.portfolio-item a.popup.video {
+    right: auto;
+    margin-left: -20px;
+}
+
+.portfolio-item:hover a.popup.video {
+    top: 50px;
+}
+
+.portfolio-item {
+    min-height: 200px;
+}
+
+.portfolio-item img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.mfp-wrap {
+    height: 100% !important;
+}
+
+.blog-box.blog-2 {
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.popup-video-image img {
+    width: 100%;
+}
+
+.social .jssocials-share .jssocials-share-link {
+    background: transparent;
+    color: #00658f;
+}
+
+.social .jssocials-share .jssocials-share-link:hover {
+    background: transparent;
+    color: #353535;
+}
+
+.gmap iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.team-round.full-border {
+    min-height: 457px;
+}
+
+.our-sercive1:before, .our-sercive1:after {
+    content: none;
+}
+
+.mega-menu .menu-logo img {
+    height: 100px;
+}
+
+.isotope .grid-item img {
+    height: 230px;
+    object-fit: cover;
+}
+
+.header.fancy .mega-menu.desktopTopFixed .menu-list-items .menu-logo > li > a img {
+    height: 100px;
+}
+
+.owl-carousel .owl-nav .owl-next {
+    right: -40px;
+}
+
+.owl-carousel .owl-nav .owl-prev {
+    left: -40px;
+}
+
+@media (max-width: 1132px) {
+    .mega-menu {
+        min-height: 100px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .owl-nav {
+        display: none;
+    }
+}
+
+.desc-responsive-image img {
+    width: 100%;
+}
+
+.mega-menu .menu-links > li > a {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.feature-text .feature-icon span {
+    color: #fff;
+}
+
+.blog-box img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
